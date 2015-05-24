@@ -1,0 +1,9 @@
+[submodule "QLA"]
+	path = QLA
+	url = https://github.com/jhu-cisst/QLA.git
+[submodule "FPGA1394"]
+	path = FPGA1394
+	url = https://github.com/jhu-cisst/FPGA1394.git
+[submodule "FPGA1394-QLA-Test"]
+	path = FPGA1394-QLA-Test
+	url = https://github.com/jhu-cisst/FPGA1394-QLA-Test.git
